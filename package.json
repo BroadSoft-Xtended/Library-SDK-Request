@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "bdsft-sdk-model": "BroadSoft-Xtended/Library-SDK-Model.git",
-    "bdsft-sdk-utils": "BroadSoft-Xtended/Library-SDK-Utils.git",
+    "bdsft-sdk-model": "BroadSoft-Xtended/Library-SDK-Model",
+    "bdsft-sdk-utils": "BroadSoft-Xtended/Library-SDK-Utils",
     "q": "1.4.1",
     "superagent": "1.4.0"
   },
